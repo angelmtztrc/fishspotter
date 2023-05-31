@@ -7,7 +7,7 @@ type EntryLayoutProps = {
 };
 
 export const metadata = {
-  title: 'FishSpotter',
+  title: 'Fish Spotter',
   description: 'An application to keep track of the places where you can fish.'
 };
 
